@@ -1,1 +1,2 @@
-this one shold work
+#!/bin/bash
+echo "School"
